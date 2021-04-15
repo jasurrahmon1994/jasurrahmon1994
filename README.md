@@ -21,6 +21,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasurrahmon1994&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasurrahmon1994)](https://github.com/jasurrahmon1994/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasurrahmon1994&theme=radical)](https://github.com/jasurrahmon1994/github-readme-stats)
 
 
