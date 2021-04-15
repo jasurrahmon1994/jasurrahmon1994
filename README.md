@@ -12,6 +12,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php)
 ![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=wordpress)
 
-Follow me
+### Follow me
+
+[![TWITTER](https://img.shields.io/badge/-TWITTER-090909?style=for-the-badge&logo=twitter)](https://twitter.com/jasurrahmon94)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=twitter)](https://www.linkedin.com/in/jasurbek-rahmonov/)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram)](https://t.me/JasurRahmonov)
 
 
