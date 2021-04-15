@@ -4,7 +4,7 @@
 
 
 Language and Tools
-![HTML5](https://img.shields.io/badge/-<HTML5>-<#e34c26>)
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=appveyor)
 
 Follow me
 
