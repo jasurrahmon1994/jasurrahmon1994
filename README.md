@@ -8,11 +8,11 @@
 ### Language and Tools
 
 ![HTML5](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
-![HTML5](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-spring-090909?style=for-the-badge&logo=spring)
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5) -->
+![POSTGRESQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
+![SPRING](https://img.shields.io/badge/-spring-090909?style=for-the-badge&logo=spring)
+![MONGODB](https://img.shields.io/badge/-mongo-090909?style=for-the-badge&logo=mongo)
+![HIBERNATE](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
+![KAFKA](https://img.shields.io/badge/-Kafka-090909?style=for-the-badge&logo=kafka)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
