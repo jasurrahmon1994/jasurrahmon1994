@@ -25,8 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasurrahmon1994&theme=radical)](https://github.com/jasurrahmon1994/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasurrahmon1994&show_icons=true&locale=en&layout=compact" alt="jasurrahmon1994" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasurrahmon1994&show_icons=true&locale=en" alt="jasurrahmon1994" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasurrahmon1994&" alt="jasurrahmon1994" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasurrahmon1994&theme=radical" alt="jasurrahmon1994" /></p>
